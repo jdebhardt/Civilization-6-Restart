@@ -1,0 +1,10 @@
+resources\templates\createGame.JPG 1322 793
+resources\templates\difficulty.JPG 1280 565
+resources\templates\civilization.JPG 1281 487
+resources\templates\exitGame.JPG 1278 744
+resources\templates\speed.JPG 1282 636
+resources\templates\mapSize.JPG 1280 776
+resources\templates\startGame.JPG 1280 1082
+resources\templates\exitConfirmation.JPG 1384 759
+resources\templates\mapType.JPG 1280 706
+resources\templates\singlePlayer.JPG 1234 589
